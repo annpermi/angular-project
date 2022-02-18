@@ -26,6 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Create new component run
-
-> ng g c <name of component>
+### Create new folder with 'componentName' files inside
+> ng g c componentName
+### Create service files
+> ng g s email.service
